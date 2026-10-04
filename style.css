@@ -1,0 +1,63 @@
+* {
+  font-family: "imprint MT shadow", cursive;
+  font-weight: 999;
+}
+
+h1 {
+  text-align: center;
+  font-size: 80px;
+  color: rgb(0, 0, 0);
+}
+
+#container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#container2 {
+  display: flex;
+  justify-content: center;
+}
+
+#container2 button {
+  font-size: 30px;
+  width: 150px;
+  height: 100px;
+  padding: 0px;
+  margin: 50px;
+  border-radius: 10px;
+  border: none;
+  text-align: center;
+  background-color: rgb(185, 185, 196);
+}
+
+#container1 input {
+  font-size: 30px;
+  width: 300px;
+  padding: 50px;
+  margin: 50px;
+  border-radius: 40px;
+  border: none;
+  text-align: center;
+  background-color: rgb(185, 185, 196);
+  color: rgb(0, 0, 0);
+}
+
+#calc {
+  margin: 50px;
+  font-size: 40px;
+  padding: 30px;
+  padding-right: 60px;
+  padding-left: 30px;
+  border-radius: 30px;
+  border: none;
+  text-align: center;
+  background-color: rgb(41, 41, 235);
+  color: rgb(0, 0, 0);
+}
+
+#output {
+  text-align: center;
+  font-size: 50px;
+}
